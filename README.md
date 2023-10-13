@@ -68,8 +68,8 @@ Detalhes de stack e integrações:
 #### Instalação
 
 Para executar os scripts é necessário configurar as variáveis de ambiente:
-• DATABASE_URL: com endereço completo de conexão com banco de dados Postres.
-• EVENT_BUS_URL: com endereço completo de conexão com o barramento de eventos, o Kafka.
+- DATABASE_URL: com endereço completo de conexão com banco de dados Postres.
+- EVENT_BUS_URL: com endereço completo de conexão com o barramento de eventos, o Kafka.
 
 Os scripts de execução estão implementados utilizando o Npm e o Vite, para instalar execute:
 
